@@ -1,2 +1,2 @@
 # Diabetes-Prediction-Model
-This work proposes an efficient model called Ensemble Stacking based Diabetes Prediction model that combines the results of multiple machine learning  approaches in order to diagnose and predict a patient's early diabetes.
+This work proposes an efficient model called Ensemble Stacking based Diabetes Prediction model that combines the results of multiple machine learning  approaches in order to diagnose and predict a patient's early diabetes. The accuracy of the model and each method are assessed and it is found that the proposed model achieves 88.5% testing accuracy which outperforms all baseline classification algorithms used viz; K nearest neighbors, Random Forest, Support vector machine, and Decision tree.
